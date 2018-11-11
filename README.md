@@ -1,7 +1,7 @@
 ## 本项目使用方法如下:
 ```
 1.clone代码
-    git clone 
+    git clone git@github.com:yang123456789/auth2.git
 ```
 ```
 2.执行命令
